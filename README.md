@@ -1,0 +1,2 @@
+# STRINGS
+String pratikleri yapıldı.
